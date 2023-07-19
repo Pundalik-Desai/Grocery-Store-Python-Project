@@ -1,0 +1,18 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 8852					Date:-12/3/2023
+Customer Name: abhi
+Customer Phone: 142141
+Customer Email: abhi49@gmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+vim dishwash		               1		                     15
+vim dishwash		               1		                     15
+vim dishwash		               1		                     15
+vim dishwash		               1		                     15
+===============================================
+Subtotal:					    60
+GST:					    3
+Total:					    63
+

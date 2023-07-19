@@ -1,0 +1,15 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 2978					Date:-6/4/2023
+Customer Name: abcd
+Customer Phone: 123456789
+Customer Email: desaipundalik8@gmail.comgmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+dabour amla		               1		                     60
+===============================================
+Subtotal:					 60
+GST:					   1
+Total:					  61
+

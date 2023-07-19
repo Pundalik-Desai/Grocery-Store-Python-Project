@@ -1,0 +1,19 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 2555					Date:-12/3/2023
+Customer Name: ayush
+Customer Phone: 930768512
+Customer Email: ayushempire@gmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+pears		               3		                     50
+pears		               3		                     50
+pears		               3		                     50
+pears		               3		                     50
+pears		               3		                     50
+===============================================
+Subtotal:					    750
+GST:					    45
+Total:					    795
+

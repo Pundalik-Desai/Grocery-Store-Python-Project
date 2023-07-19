@@ -1,0 +1,17 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 2085					Date:-20/4/2023
+Customer Name: ayush amberkar
+Customer Phone: 9673264311
+Customer Email: ayushempire03@gmail.comgmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+madhur		               1		                     38
+annapurna		               1		                     28
+tata		               5		                     20
+===============================================
+Subtotal:					 166
+GST:					   5
+Total:					  171
+

@@ -1,0 +1,20 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 6154					Date:-26/3/2023
+Customer Name: ayush
+Customer Phone: 
+Customer Email: gmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+madhur		               1		                     38
+annapurna		               1		                     28
+===============================================
+Subtotal:					 66
+GST:					   2
+Total:					  68
+===============================================
+Subtotal:					 66
+GST:					   2
+Total:					  68
+

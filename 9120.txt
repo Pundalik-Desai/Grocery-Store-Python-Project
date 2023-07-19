@@ -1,0 +1,21 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 9120					Date:-6/4/2023
+Customer Name: ayush amberkar
+Customer Phone: 9673264311
+Customer Email: ayushempire03@gmail.comgmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+madhur		               1		                     38
+madhur		               1		                     38
+madhur		               1		                     38
+madhur		               1		                     38
+madhur		               1		                     38
+madhur		               1		                     38
+masurdal		               1		                     46
+===============================================
+Subtotal:					 274
+GST:					   21
+Total:					  295
+
