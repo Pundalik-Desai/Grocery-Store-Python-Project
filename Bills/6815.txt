@@ -1,0 +1,18 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 6815					Date:-12/3/2023
+Customer Name: sanyami
+Customer Phone: 9307685319
+Customer Email: gmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+rin		               1		                     20
+rin		               1		                     20
+rin		               1		                     20
+rin		               1		                     20
+===============================================
+Subtotal:					 80
+GST:					   4
+Total:					  84
+

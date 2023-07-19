@@ -1,0 +1,15 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 8336					Date:-1/4/2023
+Customer Name: ayush
+Customer Phone: ayushempire03
+Customer Email: ayushempire@0307gmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+shikekai		               1		                     30
+===============================================
+Subtotal:					 30
+GST:					   0
+Total:					  30
+

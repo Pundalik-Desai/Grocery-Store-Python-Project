@@ -1,0 +1,15 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 5455					Date:-4/4/2023
+Customer Name: ayush amberkar
+Customer Phone: 9673264311
+Customer Email: ayushempire03@gmail.comgmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+marie		               2		                     30
+===============================================
+Subtotal:					 60
+GST:					   1
+Total:					  61
+

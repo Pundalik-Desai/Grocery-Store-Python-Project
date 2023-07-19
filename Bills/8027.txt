@@ -1,0 +1,20 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 8027					Date:-12/3/2023
+Customer Name: akfhlasdf
+Customer Phone: afash
+Customer Email:  d;fodsafgmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+ashirwad		               1		                     48
+ashirwad		               1		                     48
+ashirwad		               1		                     48
+ashirwad		               1		                     48
+ashirwad		               1		                     48
+ashirwad		               1		                     48
+===============================================
+Subtotal:					 288
+GST:					   20
+Total:					  308
+

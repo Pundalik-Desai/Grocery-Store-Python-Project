@@ -1,0 +1,16 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 1870					Date:-12/3/2023
+Customer Name: gag
+Customer Phone: 252
+Customer Email: agaggmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+onam		               1		                     40
+onam		               1		                     40
+===============================================
+Subtotal:					 80
+GST:					   2
+Total:					  82
+

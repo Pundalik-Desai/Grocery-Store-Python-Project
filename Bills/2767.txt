@@ -1,0 +1,20 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 2767					Date:-13/3/2023
+Customer Name: ayush
+Customer Phone: 9673263120
+Customer Email: aysuhempiregmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+annapurna		               1		                     28
+red label		               1		                     28
+taj		               1		                     45
+HP		               1		                     70
+basmati		               1		                     23
+basmati		               1		                     23
+===============================================
+Subtotal:					 217
+GST:					   15
+Total:					  232
+

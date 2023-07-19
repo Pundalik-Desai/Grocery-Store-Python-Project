@@ -1,0 +1,16 @@
+		          Final Bill
+		    PA Super Market
+Bill Number- 7647					Date:-12/3/2023
+Customer Name: afnhkahf
+Customer Phone: 146481689
+Customer Email: dfkhfhgmail.com
+===============================================
+Products		          Quantity		                     Price 
+===============================================
+vim dishwash		               1		                     15
+vim dishwash		               1		                     15
+===============================================
+Subtotal:					 30
+GST:					   0
+Total:					  30
+
